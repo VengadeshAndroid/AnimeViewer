@@ -29,7 +29,7 @@ Upon clicking an anime from the list, users can view:
 **Dependency** Injection: Hilt  
 **Networking**: Retrofit with Moshi/Converter Gson
 **Media Playback**: WebView (for YouTube trailers)
-**Concurrency**: Coroutines  
+**Concurrency**: Coroutines
 **Logging**: Timber  
 **Image Loading**: Coil
 **Navigation**: Jetpack Navigation Compose
