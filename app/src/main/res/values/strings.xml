@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AnimeViewer App</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="detail_screen">Detail Screen</string>
+    <string name="loading">Loading...</string>
+    <string name="title">Title: </string>
+    <string name="plot">Plot/Synopsis: </string>
+    <string name="genres">Genres: </string>
+    <string name="main_cast">Main Cast: </string>
+    <string name="number_of_episode">Number of Episodes: </string>
+    <string name="rating">Rating: </string>
+    <string name="anime_data">Anime data not available </string>
+
+</resources>
